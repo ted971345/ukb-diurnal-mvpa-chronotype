@@ -1,4 +1,3 @@
-# ukb-diurnal-mvpa-chronotype
 # Diurnal MVPA Patterns, Chronotype, and Mortality (UK Biobank)
 
 This repository contains analysis code for a UK Biobank project examining associations between diurnal MVPA pattern clusters, chronotype, and mortality outcomes (all-cause, cancer, cardiovascular).

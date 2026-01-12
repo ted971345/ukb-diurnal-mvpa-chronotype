@@ -1,0 +1,7 @@
+paths:
+  raw_data_dir: "data/raw"
+  derived_data_dir: "data/derived"
+  outputs_dir: "outputs"
+
+files:
+  analysis_object: "analysis_object.rds"
