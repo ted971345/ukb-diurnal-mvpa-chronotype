@@ -1,0 +1,20 @@
+# R / OS
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store
+
+# Local data (UK Biobank individual-level data must not be committed)
+data/raw/
+data/derived/
+
+# Outputs that may contain participant-level data
+outputs/
+*.xlsx
+*.csv
+*.rds
+
+# Credentials / local config
+.env
+.Renviron
+config.local.yml
